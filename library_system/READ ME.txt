@@ -1,0 +1,15 @@
+## Online Library Information System
+## By: Mobarak Dimalotang
+## Github: https://github.com/Mobarak4321
+## Gmail: dimalotangmobarak@gmail.com
+
+
+Database File located in path:
+..\Database File\library_database.sql
+
+Database username: root
+Database password: 12345
+
+👍 HAVE FUN 👍
+
+FOR MORE INFO CONTACT ME
